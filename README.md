@@ -34,6 +34,13 @@
   <img src="./textures/readme/wall.png" alt="bmagere2" width="10%" />
   <img src="./textures/readme/wall.png" alt="bmagere2" width="10%" />
 </p>
+<br><br><br><br>
+
+---
+
+Public disclaimer: this project has been made by a student, during his learning journey, while full time working. There will be errors, improvements, and some easter eggs. Have fun and press (space) to yourself.
+
+---
 <br><br>
 
 <p><h2><span style="color: #7f03c7;">Summary</span></h2></p>
